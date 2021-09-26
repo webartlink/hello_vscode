@@ -1,0 +1,13 @@
+header {
+  background-color: #fff;
+}
+
+body {
+  font-size: 20px;
+}
+
+body div {
+  font-size: 10px;
+  background-color: rebeccapurple;
+  color: aliceblue;
+}
